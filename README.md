@@ -11,9 +11,13 @@ This project uses Javascript ES6+ to build a dynamic website that filters UFO si
 
 ## Results
 
-# The Main Site
+### The Main Site
 
 ![main page](https://github.com/mein0819/UFO_JavaScript/blob/main/readMeImages/mainpage_Full.png)
 
-# Input Boxes for Filters and Results Section
+### Input Boxes for Filters and Results Section
+
+![filters](https://github.com/mein0819/UFO_JavaScript/blob/main/readMeImages/filterMain.png)
+
+Entering in filter criteria will filter and show results by pressing the enter key, tabbing to the next input box or using the mouse to click into another input box. There is no button that triggers the search. Also, the more input boxes that are used to filter, the more fine-tuned the search will be.
 
