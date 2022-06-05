@@ -36,4 +36,7 @@ To start a new search or clear the filters, the user has to click on the page ti
 
 While this site works as intended, it's intuitiveness is limited. For instance, the current design for text input is case sensitive. All input can only be entered in the exact way it's shown in the placeholder text, so the date format has to be exactly the same, and all text has to be lowercase. If the input is not entered correctly, no results are shown. This image shows an example of using proper casing to enter in the city: 
 
+![cityCap](https://github.com/mein0819/UFO_JavaScript/blob/main/readMeImages/cityCap.png)
+
+Because the city, 'Benton', begins with a capital letter, no results will be shown on the right. There are further limitations, such as not having a search and reset button near the filters. Further development can be made to provide these functions, which will help make the site more intuitive. Adding the capability to search by a range of dates rather than a single date would also be a useful function, in addition to allowing a wider range of text input to be accepted. 
 
