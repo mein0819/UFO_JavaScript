@@ -28,4 +28,12 @@ Here the search has been further refined by entering a shape filter:
 
 ![filter3](https://github.com/mein0819/UFO_JavaScript/blob/main/readMeImages/filter3.png)
 
-To start a new search or clear the filters, clicking 
+To start a new search or clear the filters, the user has to click on the page title above the jumbotron section:
+
+![reset](https://github.com/mein0819/UFO_JavaScript/blob/main/readMeImages/reset.png)
+
+## Summary
+
+While this site works as intended, it's intuitiveness is limited. For instance, the current design for text input is case sensitive. All input can only be entered in the exact way it's shown in the placeholder text, so the date format has to be exactly the same, and all text has to be lowercase. If the input is not entered correctly, no results are shown. This image shows an example of using proper casing to enter in the city: 
+
+
