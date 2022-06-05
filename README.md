@@ -23,3 +23,9 @@ Entering in filter criteria will filter and show results by pressing the enter k
 Here only the date and city have been entered:
 
 ![filter2](https://github.com/mein0819/UFO_JavaScript/blob/main/readMeImages/filter2.png)
+
+Here the search has been further refined by entering a shape filter:
+
+![filter3](https://github.com/mein0819/UFO_JavaScript/blob/main/readMeImages/filter3.png)
+
+To start a new search or clear the filters, clicking 
